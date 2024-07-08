@@ -31,7 +31,7 @@ const Index = () => {
           <Button variant="primary">Get Started</Button>
           <Button variant="secondary">Learn More</Button>
         </div>
-        <img src="/images/new-hero-image-dalle3.jpg" alt="Hero image showcasing software development" className="mx-auto object-cover w-full h-[400px]" />
+        <img src="/images/hero-image-dalle3-correct.jpg" alt="Corrected hero image showcasing software development" className="mx-auto object-cover w-full h-[400px]" />
       </section>
 
       {/* Features Section */}
